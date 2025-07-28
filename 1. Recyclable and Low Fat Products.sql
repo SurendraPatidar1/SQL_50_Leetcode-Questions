@@ -1,7 +1,7 @@
-Q1. Write an SQL query to find for each month and country, the number of transactions and their total amount, the number of approved transactions and their total amount.
+1. Write a solution to find the ids of products that are both low fat and recyclable.
 Return the result table in any order.
-Example 1:
 
+Example 1:
 Input: 
 Products table:
 +-------------+----------+------------+
