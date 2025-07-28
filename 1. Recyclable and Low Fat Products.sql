@@ -23,6 +23,7 @@ Output:
 Explanation: Only products 1 and 3 are both low fat and recyclable.
 
 #MySQL query statement below
+-- According to the Question we want to select only the Product_ID from the Products Table and we wants to the low_fats and recylable = 'Y' that's why we use simply AND operator.
 SELECT product_id
 FROM Products
 Where low_fats = 'Y' AND recyclable = 'Y';
